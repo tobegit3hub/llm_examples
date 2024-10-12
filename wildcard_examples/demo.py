@@ -3,7 +3,7 @@ import os
 
 client = OpenAI(
       base_url="https://api.gptsapi.net/v1",
-      api_key="sk-9Y6e8dc5dd1e6b67ca5fd1cc13c1c71a6ef860988ecCxxx"
+      api_key="sk-04Je8880f0ad5b6da7021bac89e9475b74ba7b997ecHpxx"
 )
 
 model = "gpt-3.5-turbo"
